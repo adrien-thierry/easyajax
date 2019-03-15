@@ -1,6 +1,6 @@
 /*
-  Copyright (C) 2016  Adrien THIERRY
-  http://seraum.com
+  Copyright (C) 2019  Adrien THIERRY
+  https://github.com/adrien-thierry/
   License MIT
 */
 
